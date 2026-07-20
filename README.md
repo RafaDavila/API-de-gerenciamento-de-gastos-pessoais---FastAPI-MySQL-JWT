@@ -1,0 +1,1 @@
+# API-de-gerenciamento-de-gastos-pessoais---FastAPI-MySQL-JWT
